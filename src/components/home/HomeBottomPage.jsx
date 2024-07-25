@@ -4,7 +4,7 @@ import Tilt from "react-parallax-tilt";
 import { FiDownloadCloud } from "react-icons/fi";
 import { Button } from "@mui/material";
 
-const resumeURL = "https://drive.google.com/file/d/1ahsxf-lCTFqqF5amadW83EXtsNSWt8G5/view?usp=sharing";
+const resumeURL = "https://drive.google.com/file/d/1xoDi5sguJ5AyGd1RyCjRvIZxmcUw9j8C/view?usp=drive_link";
 
 const HomeBottomPage = () => {
 
