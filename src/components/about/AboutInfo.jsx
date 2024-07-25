@@ -37,11 +37,11 @@ const AboutInfo = () => {
           </p> */}
           <p style={{ textAlign: "justify" }}>
             <ul>
-              <li>
+{/*               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline", color: "#32CD30" }} />{" "}
                 MBA-HR (Pondicherry University) from St. Joseph’s College, Trichy | <br /> 2019-2021
               </li>
-              <br />
+              <br /> */}
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline", color: "#32CD30" }} />{" "}
                 Bachelor’s degree in Computer Science from Loyola College, Namakkal | <br /> 2015-2018
