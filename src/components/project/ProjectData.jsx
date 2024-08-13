@@ -7,7 +7,7 @@ import phishing from "../../assets/phishing.svg";
 
 const projectData = [
   {
-    title: "Book Searching Appication",
+    title: "Book Searching Application",
     description:
       "Our book finder tool is designed to help you find a book title using just a fragment of the plot, a vague description, or any part of it you can remember. Powered by advanced AI, you just enter what you know and it will do the rest. Start your search now and reconnect with the stories you love.",
     image: transferMusic,

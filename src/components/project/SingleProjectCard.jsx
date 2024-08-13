@@ -14,14 +14,14 @@ const SingleProjectCard = ({ projectDetails }) => {
         <Card.Description>{description}</Card.Description>
       </Card.Content>
       <Card.Content extra>
-        <a href={githubLink}>
+        <a href={githubLink} target="new">
           <Button className="single-card-button">
             <div className="github-button">
-              <BsGithub style={{ marginRight: "1rem" }} /> Github Link
+              <BsGithub style={{ marginRight: "1rem"}} /> Github Link
             </div>
           </Button>
         </a>
-        <a href={projectLink}>
+        <a href={projectLink } target="new">
           <Button className="single-card-button">
             <div className="github-button">
               <ImFolderUpload style={{ marginRight: "1rem" }} /> Project Link

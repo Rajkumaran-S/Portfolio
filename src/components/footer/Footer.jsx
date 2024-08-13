@@ -10,7 +10,7 @@ const Footer = () => {
           <a
             href="https://github.com/Rajkumaran-S"
             class="mr-4 hover:underline md:mr-6 "
-          >
+            target="new">
             <BsGithub
               style={{ color: "#AFC9C1", width: "200%", height: "auto" }}
             />
@@ -20,7 +20,7 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/rajkumaran-s"
             class="mr-4 hover:underline md:mr-6"
-          >
+            target="new">
             <BsLinkedin
               style={{ color: "#AFC9C1", width: "200%", height: "auto" }}
             />

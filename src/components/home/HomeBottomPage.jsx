@@ -4,7 +4,7 @@ import Tilt from "react-parallax-tilt";
 import { FiDownloadCloud } from "react-icons/fi";
 import { Button } from "@mui/material";
 
-const resumeURL = "https://drive.google.com/file/d/1ahsxf-lCTFqqF5amadW83EXtsNSWt8G5/view?usp=sharing";
+const resumeURL = "https://drive.google.com/file/d/1xoDi5sguJ5AyGd1RyCjRvIZxmcUw9j8C/view?usp=drive_link";
 
 const HomeBottomPage = () => {
 
@@ -16,7 +16,7 @@ const HomeBottomPage = () => {
       <div className="introduction">
         <div className="intro-text">
           <p>
-            I am RajKumaran S, currently completed my Course at GUVI <span style={{ color: "#32CD30" }}>MERN Stack Development.</span>
+            This's RajKumaran S, currently completed my Course at GUVI in <span style={{ color: "#32CD30" }}>MERN Stack Development.</span>
           </p>
           {/* <br /> */}
           <p>
@@ -24,7 +24,7 @@ const HomeBottomPage = () => {
           <br />
           </p>
           <p>
-          I also love the logic and structure of coding and always strive to write elegant and efficient.
+        And also love the logic and structure of coding and always strive to write elegant and efficient.
           </p>
           <br />
           <p>
