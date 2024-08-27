@@ -42,13 +42,12 @@ const projectData = [
     projectLink: "https://tododailytask.netlify.app",
   },
   {
-    title: "Social Media Application (MERN Stack)",
+    title: "Manage List Of Records (MERN Stack)",
     description:
-      "Social media apps are applications which can either be downloaded and stored on your phone or tablet, or streamed through your internet browser. Social media apps generally involve messaging, photo-sharing and interactive content.",
+      "which can include creating, validating, retrieving, updating, maintaining and deleting data for the use of managing the postion based.",
     image: leetcodeNotifier,
-    githubLink:
-      "https://github.com/Rajkumaran-S/Social-Media-App-MERN-Stack.git",
-    projectLink: "https://post-it-heroku.herokuapp.com/",
+    githubLink: "https://github.com/Rajkumaran-S/Manage-Lists-MERN.git",
+    projectLink: "https://employee-manager-tindoan-xu3i.onrender.com/",
   },
   {
     title: "Password Reset (MERN Stack)",
